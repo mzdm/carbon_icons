@@ -15,6 +15,10 @@ carbon_icons: ^0.0.1
 
 ## Simple usage example
 ```dart
+import 'package:carbon_icons/carbon_icons.dart';
+
+...
+
 Icon(
   CarbonIcons.shopping_cart,
   color: Colors.green,
