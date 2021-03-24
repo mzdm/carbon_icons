@@ -1,7 +1,7 @@
 name: carbon_icons
 description: A Flutter package which includes 1584 Carbon icons from the Carbon Design System.
 homepage: https://github.com/mzdm/carbon_icons
-version: 0.0.1+1
+version: 0.0.1+2
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
