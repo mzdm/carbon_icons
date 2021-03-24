@@ -5,7 +5,7 @@ A Flutter package which includes 1584 Carbon icons from the [Carbon Design Syste
 [Icon Catalog](https://www.carbondesignsystem.com/guidelines/icons/library/)
 
 <p align="center">
-<img height="auto" width="auto" src="preview/preview.png" />
+<img height="auto" width="auto" src="https://github.com/mzdm/carbon_icons/blob/master/preview/preview.png" />
 </p>
 
 ## Install
